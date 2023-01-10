@@ -31,9 +31,13 @@ private val retrofit = Retrofit.Builder()
  * Retrofit will create an object of our interface with all the methods that talk to the the server.
  */
 interface MarsApiService {
-        @GET("realestate")
-        fun getProperties():
-                Call<List<MarsProperty>>
+    /**
+     * Returns a Coroutine [List] of [MarsProperty] which can be fetched with await() if in a Coroutine scope.
+     * The @GET annotation indicates that the "realestate" endpoint will be requested with the GET
+     * HTTP method
+     */
+    @GET("realestate")
+    suspend fun getProperties(): List<MarsProperty>
 }
 
 /**

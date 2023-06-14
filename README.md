@@ -18,9 +18,8 @@ It leverages the following components from the Jetpack library:
 
 * Navigation with the SafeArgs plugin for parameter passing between fragments
 
-![alt text] (https://github.com/utkarsh0869/RealEstateInMars/assets/44482062/6a237e70-6a7d-4ac5-9867-dbef4897df4b)
+<img width="363" alt="Screen Shot 2023-06-14 at 11 08 43 AM" src="https://github.com/utkarsh0869/RealEstateInMars/assets/44482062/8be799f5-0e78-4904-8b7b-1ec18808d37a">
 
-![alt text] (https://github.com/utkarsh0869/RealEstateInMars/assets/44482062/11a69b52-5c97-4109-adcb-b162c2666853)
+<img width="361" alt="Screen Shot 2023-06-14 at 11 09 13 AM" src="https://github.com/utkarsh0869/RealEstateInMars/assets/44482062/22c10cae-24f5-4400-94d8-b58593eb0119">
 
-![alt text] (https://github.com/utkarsh0869/RealEstateInMars/assets/44482062/4901440b-f5b7-4b97-94fd-2a253572c9e7)
-
+<img width="359" alt="Screen Shot 2023-06-14 at 11 09 46 AM" src="https://github.com/utkarsh0869/RealEstateInMars/assets/44482062/f50420de-22da-429a-9ca4-723ed9e5cbaa">

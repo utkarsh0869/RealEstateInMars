@@ -1,4 +1,4 @@
-#RealEstateInMars
+# RealEstateInMars
 RealEstateInMars is an app that uses RESTful server and how to specify different endpoints and different query values using the Retrofit and Moshi library. It also uses Glide for efficient display of images. RecyclerView is used to build the grid with use of binding adapters. 
 
 This app demonstrates the following views and techniques:
